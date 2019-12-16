@@ -9,6 +9,6 @@ public class HouseCat extends NonroaringCats
 
 		public void hasCatClass()
 			{
-				System.out.println("The " + name + " is in the cat class " + catClass + " which simple means small.");
+				System.out.println("The " + name + " is in the cat class " + catClass + " which simply means small.");
 			}
 	}
